@@ -1,0 +1,1 @@
+search_result['533']=["topic_00000000000000EA.html","DocumentSummaryViewModel.CountryIssued Property","CountryIssued gets/sets the documents country of issue"];

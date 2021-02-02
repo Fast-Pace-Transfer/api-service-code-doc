@@ -1,0 +1,1 @@
+search_result['536']=["topic_00000000000000ED.html","DocumentSummaryViewModel.ImageURL Property","ImageURL gets/set the link to the image"];

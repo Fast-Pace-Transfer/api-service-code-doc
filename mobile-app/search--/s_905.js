@@ -1,0 +1,1 @@
+search_result['905']=["topic_00000000000001BF.html","BeneficiariesService.GetCategories Method","GetCategories\r\n\r\nThis function get the categories of beneficiaries. These include categories such as:\r\nShops - \r\netc..\r\n\r\n\r\n\r\n\r\nEach category has its list of beneficiaries assosiated with that categor..."];

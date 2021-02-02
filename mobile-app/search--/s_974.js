@@ -1,0 +1,1 @@
+search_result['974']=["topic_00000000000001D7.html","SMSService.Resend Method","Resend\r\n\r\nThis function resend the verification code to the user after a period, thus if the user does not recieve the verification code,\r\nthe code will be resent once this function is triggered.\r\n"];

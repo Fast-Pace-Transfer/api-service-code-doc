@@ -1,0 +1,1 @@
+c['348']=[['349',"PaymentChannelViewModel Constructor","topic_0000000000000125.html",0],['350',"Properties","topic_000000000000011B_props--.html",1],['360',"Methods","topic_000000000000011B_methods--.html",1]];

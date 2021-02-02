@@ -1,0 +1,1 @@
+search_result['1203']=["topic_000000000000024E.html","Customer Class","response stucture for Profile details"];

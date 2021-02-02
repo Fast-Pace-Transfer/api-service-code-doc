@@ -1,0 +1,1 @@
+search_result['951']=["topic_00000000000001CF.html","PaymentMethodsService.GetPaymentMethod Method","GETPAYMENTMETHOD\r\n\r\nThis function retrieves all payment methods specified by the\r\ndestination country to transfer money to the intended beneficiary.\r\n"];

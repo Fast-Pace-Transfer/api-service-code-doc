@@ -1,0 +1,1 @@
+search_result['907']=["topic_00000000000001C1.html","CustomerServices Class","CUSTOMER SERVICES\r\n\r\n\r\nThe customer services class contains functions that control operations\r\nconcerning the customer. function in this class include\r\n* AddCustom\r\n* GetCustomer\r\n* UpdateCustomer\r\n"];

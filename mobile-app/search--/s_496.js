@@ -1,0 +1,1 @@
+search_result['496']=["topic_00000000000000CF.html","CustomerViewModelPage2.tempBeneficiary Property","The tempBeneficiary property represents a Beneficiary Model."];

@@ -1,0 +1,1 @@
+search_result['967']=["topic_00000000000001D5.html","SMSService Class","SMSSERVICE\r\n\r\nThis service class handles message deliver to the user during the reqistration/Signup proccess\r\nto verify the user\r\n"];

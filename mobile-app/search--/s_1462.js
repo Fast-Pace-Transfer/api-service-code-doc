@@ -1,0 +1,1 @@
+search_result['1462']=["topic_00000000000002DE.html","ResendSMS Class","Resend SMS structure.\r\nUsed in an event where by the user failed to recieve an automatic sms response after phone number registration."];

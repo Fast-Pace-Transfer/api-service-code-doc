@@ -1,0 +1,1 @@
+search_result['701']=["topic_000000000000015C.html","TransactionHistoryViewModel.InitiateTransaction Property","InitiateTransaction takes the user to the first page for making a transaction"];

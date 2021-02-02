@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000000377.html"],['450',"FastPace_Transfer_Mobile_Client.iOS Namespace","topic_000000000000000A.html"],['451',"AppDelegate Class","topic_000000000000000B.html"],['452',"Methods","topic_000000000000000B_methods--.html"],['453',"FinishedLaunching Method","topic_000000000000000C.html"]];

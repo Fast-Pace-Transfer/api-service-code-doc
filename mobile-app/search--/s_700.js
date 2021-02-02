@@ -1,0 +1,1 @@
+search_result['700']=["topic_000000000000015B.html","TransactionHistoryViewModel.TransactionHistoryTypes Property","An array to store the transactions made by the user."];

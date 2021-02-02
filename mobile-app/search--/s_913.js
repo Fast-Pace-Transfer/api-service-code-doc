@@ -1,0 +1,1 @@
+search_result['913']=["topic_00000000000001C2.html","CustomerServices.AddCustom Method","AddCustom\r\n\r\n\r\nThe AddCustom function adds/creates the customer profile.\r\nOnce the customer has been added\\created, transactions can be performed with the account\r\n"];

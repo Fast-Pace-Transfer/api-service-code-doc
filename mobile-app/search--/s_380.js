@@ -1,0 +1,1 @@
+search_result['380']=["topic_0000000000000080.html","BeneficiaryFormViewModel Class","This model defines the general structure and interaction with the\r\nform for creating a new beneficiary.\r\n\r\nThe BeneficiaryFromViewModel aslo inherits the ViewModelBase.\r\n"];

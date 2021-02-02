@@ -1,0 +1,1 @@
+search_result['966']=["topic_00000000000001D4.html","RateService.GetRate Method","GETRATE\r\n\r\nThis function gets the conversion rate for the transaction\r\naccording to the sending and recieving country provided.\r\n"];

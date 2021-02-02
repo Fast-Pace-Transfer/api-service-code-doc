@@ -1,0 +1,1 @@
+search_result['785']=["topic_0000000000000183.html","App.OnSleep Method","Application developers override this method to perform actions when the application enters the sleeping state."];

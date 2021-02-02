@@ -1,0 +1,1 @@
+search_result['1532']=["topic_0000000000000301.html","BusinessTransaction Class","Structure for cooperate transaction details."];

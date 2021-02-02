@@ -1,0 +1,1 @@
+search_result['996']=["topic_00000000000001DE.html","TransactionServices.NTransaction Method","NTransaction\r\n\r\n\r\nThis function performs the transaction process on both categories of\r\nbeneficiaries (cooperate and individuals) depending on the transaction node passed ot the function.\r\n"];

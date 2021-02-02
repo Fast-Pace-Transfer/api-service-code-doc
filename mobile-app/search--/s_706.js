@@ -1,0 +1,1 @@
+search_result['706']=["topic_0000000000000161.html","TransactionHistoryViewModel.fetchTrans Method","This method fetches the history of the transactions made by the user"];

@@ -1,0 +1,1 @@
+search_result['1083']=["topic_0000000000000208.html","BeneficiariesModel Class","This class is a child of the common beneficiary class.\r\n\r\nIts main pruporse is contain the neccessary details of the user to toggle the save function on the server..\r\n"];

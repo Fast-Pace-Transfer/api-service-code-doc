@@ -1,0 +1,1 @@
+search_result['1568']=["topic_000000000000031B.html","TransactionHistoryType.ProcessedByAcquirer Property",""];

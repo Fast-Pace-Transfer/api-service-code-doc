@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000000377.html"],['29',"FastPace_Transfer_Mobile_Client.Forms Namespace","topic_0000000000000017.html"],['119',"Settings Class","topic_0000000000000066.html"],['120',"Settings Constructor","topic_0000000000000067.html"]];

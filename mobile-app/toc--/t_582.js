@@ -1,0 +1,1 @@
+c['582']=[['583',"GetTransaction Method","topic_00000000000001E0.html",0],['584',"GetTransactionHistory Method","topic_00000000000001DF.html",0],['585',"NTransaction Method","topic_00000000000001DE.html",0]];

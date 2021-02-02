@@ -1,0 +1,1 @@
+search_result['973']=["topic_00000000000001D6.html","SMSService.SendSms Method","SendSms\r\n\r\n\r\nThis function submits the verification code to the api provided. This is done to verify the user when the\r\nuser submits a phone number during the registration process.\r\n"];

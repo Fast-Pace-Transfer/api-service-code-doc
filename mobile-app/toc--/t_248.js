@@ -1,0 +1,1 @@
+c['248']=[['249',"GetCountryType Method","topic_00000000000000DC.html",0],['250',"SaveCustomerDetails Method","topic_00000000000000DA.html",0],['251',"SaveCustomerDetails2 Method","topic_00000000000000DB.html",0],['252',"UpdateCustomerDetails Method","topic_00000000000000D9.html",0]];

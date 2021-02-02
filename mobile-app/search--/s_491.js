@@ -1,0 +1,1 @@
+search_result['491']=["topic_00000000000000CA.html","CustomerViewModelPage2.UpdateBoolButton Property","UpdateBoolButton property gets/sets the boolean property in the page contructor."];

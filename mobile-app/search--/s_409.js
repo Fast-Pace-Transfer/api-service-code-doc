@@ -1,0 +1,1 @@
+search_result['409']=["topic_0000000000000096.html","BeneficiaryFormViewModel.FetchCountryTypes Method","This method fetches the active countries using the api and stores them in the CountryTypes array.\r\nThe data contained in this array will be displayed to the user in the form of a list."];

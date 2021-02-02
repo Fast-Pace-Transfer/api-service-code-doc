@@ -1,0 +1,1 @@
+search_result['473']=["topic_00000000000000BD.html","CustomerPageViewModel.UpdateBoolButton Property","The UpdateBoolButton property represents the update button on the customer profile page."];

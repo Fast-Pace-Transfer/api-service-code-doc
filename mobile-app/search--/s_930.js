@@ -1,0 +1,1 @@
+search_result['930']=["topic_00000000000001C9.html","FeesServices.GetFee Method","FEESService\r\n\r\n\r\nThe fees service class contains methods that aid in determining the total fees\r\nper transaction that the user will incur.\r\n"];

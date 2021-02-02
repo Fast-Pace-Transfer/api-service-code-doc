@@ -1,0 +1,1 @@
+search_result['937']=["topic_00000000000001CB.html","LookUpService.LookUp Method","Lookup\r\n\r\nThis function verifies the validity of a phonenumber provided by the user. if the number is valid,\r\nthe function returns true, and false otherwise.\r\n"];

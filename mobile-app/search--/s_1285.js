@@ -1,0 +1,1 @@
+search_result['1285']=["topic_0000000000000282.html","GetFee Class","Structure transaction fee charged obtained when user enters their sending amount.\r\nThe fee is calculated based on the amount the user is  sending."];

@@ -1,0 +1,1 @@
+search_result['703']=["topic_000000000000015E.html","TransactionHistoryViewModel.isBusy Property","This function toggles the boolen property to display\r\nthe loading animation during a task initiation."];

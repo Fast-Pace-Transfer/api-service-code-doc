@@ -1,0 +1,1 @@
+search_result['699']=["topic_000000000000015A.html","TransactionHistoryViewModel.TransactionPage Property","The TransactionPage gets/sets the transaction page for the user"];

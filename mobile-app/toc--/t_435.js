@@ -1,0 +1,1 @@
+c['435']=[['436',"TransactionSummaryViewModel Constructor","topic_0000000000000169.html",0],['437',"Properties","topic_0000000000000162_props--.html",1]];

@@ -1,0 +1,1 @@
+search_result['883']=["topic_00000000000001B3.html","SignUpService.LoginUser Method","\r\nLoginUser function grants the user access to their data on the application.\r\nAccess to the aplication is provided if the credentials used in the login mathc those used to sign up/register.\r\n"];

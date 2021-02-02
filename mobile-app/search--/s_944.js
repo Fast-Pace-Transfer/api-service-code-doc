@@ -1,0 +1,1 @@
+search_result['944']=["topic_00000000000001CD.html","PaymentChannelService.GetPaymentChannels Method","\r\n GetPaymentChannels retrieves all paymentchannel specified by a\r\n country that the user may transfer money to.\r\n "];

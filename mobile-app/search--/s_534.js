@@ -1,0 +1,1 @@
+search_result['534']=["topic_00000000000000EB.html","DocumentSummaryViewModel.DateIssued Property","DateIssued gets/set the date issued for the document"];

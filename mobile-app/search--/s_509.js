@@ -1,0 +1,1 @@
+search_result['509']=["topic_00000000000000DC.html","CustomerViewModelPage2.GetCountryType Method","Fetch active countries and store in the countryTypes array."];

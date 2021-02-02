@@ -1,0 +1,1 @@
+search_result['1322']=["topic_0000000000000293.html","CountryType.Currency Property",""];

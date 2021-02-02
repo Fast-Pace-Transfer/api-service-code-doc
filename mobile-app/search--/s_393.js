@@ -1,0 +1,1 @@
+search_result['393']=["topic_0000000000000088.html","BeneficiaryFormViewModel.PaymentMethod Property","PaymentMethod gets/sets the payment method id that the\r\nuser will use to make a transfer."];

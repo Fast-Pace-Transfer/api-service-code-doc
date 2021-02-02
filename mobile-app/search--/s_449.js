@@ -1,0 +1,1 @@
+search_result['449']=["topic_00000000000000AF.html","CountryPaymentMethodsPageViewModel Class","This viewmodel manages the payment method for the user.\r\n\r\nMost variables passed to this model are passed from the first beneficiary page\r\nin order to get pass them to the\r\nfinal page, i.e benficiaryP..."];

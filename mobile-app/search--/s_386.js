@@ -1,0 +1,1 @@
+search_result['386']=["topic_0000000000000081.html","_isSwitchToggled Field","The _isSwitchToggled property represents a switch\r\nto save the beneficiary to the customer profile.\r\nBy default, this property is set to false."];

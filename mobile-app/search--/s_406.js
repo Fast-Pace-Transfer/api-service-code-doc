@@ -1,0 +1,1 @@
+search_result['406']=["topic_0000000000000094.html","BeneficiaryFormViewModel(Int32) Constructor","BeneficiaryFormViewModel contructs the second page for the beneficiary form.\r\nThe parameter passed to this contructor is an integer which determines the source.\r\n\r\nIf an integer is passed to this cons..."];

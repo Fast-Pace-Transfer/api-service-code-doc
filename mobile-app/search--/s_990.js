@@ -1,0 +1,1 @@
+search_result['990']=["topic_00000000000001DD.html","TransactionServices Class","TRANSACTION SERVICES\r\n\r\nThis class contains functions that process the transaction request on the two different types of beneficiaries based ont the user\u0027s selection.\r\nHence the transaction processing..."];

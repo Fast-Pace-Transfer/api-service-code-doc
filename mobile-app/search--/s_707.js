@@ -1,0 +1,1 @@
+search_result['707']=["topic_0000000000000162.html","TransactionSummaryViewModel Class","This model provides functions used on the transaction\r\nsummary page."];

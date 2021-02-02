@@ -1,0 +1,1 @@
+search_result['1163']=["topic_000000000000023A.html","CoperateRecipientTypes Class","This tructure repriesents the list of all recpieints/beneficiaries owned by t th user."];

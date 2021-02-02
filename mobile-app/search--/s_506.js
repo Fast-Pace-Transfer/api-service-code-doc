@@ -1,0 +1,1 @@
+search_result['506']=["topic_00000000000000D9.html","CustomerViewModelPage2.UpdateCustomerDetails Method","UpdateCustomerDetails updates the customer details."];

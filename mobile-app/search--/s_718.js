@@ -1,0 +1,1 @@
+search_result['718']=["topic_0000000000000168.html","TransactionSummaryViewModel.SendMore Property","SendMore takes the user back to the initiate transaction page to make another transaction"];

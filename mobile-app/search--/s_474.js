@@ -1,0 +1,1 @@
+search_result['474']=["topic_00000000000000BE.html","CustomerPageViewModel.Customer Property","The Customer property represents the model of the customer created."];

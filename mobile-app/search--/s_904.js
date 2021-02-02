@@ -1,0 +1,1 @@
+search_result['904']=["topic_00000000000001BE.html","BeneficiariesService.ListBen Method","LISTBEN\r\n\r\nThis function lists all the beneficiaries of the user.The list returned is in the form of pages (paginated data) with a maximum on three(3) items on a page.\r\n"];

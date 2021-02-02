@@ -1,0 +1,1 @@
+search_result['906']=["topic_00000000000001C0.html","BeneficiariesService.DeleteBen Method","DeleteBen\r\n\r\nThis function deletes a beneficiary from the beneficiary list of the user.\r\nthe DeleteBen function works by passing the id of the beneficiary to be deleted.\r\n"];

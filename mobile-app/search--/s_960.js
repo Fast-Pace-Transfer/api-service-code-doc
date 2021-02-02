@@ -1,0 +1,1 @@
+search_result['960']=["topic_00000000000001D3.html","RateService Class","RATESERVICE"];

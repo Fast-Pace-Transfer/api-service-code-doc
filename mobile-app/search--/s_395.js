@@ -1,0 +1,1 @@
+search_result['395']=["topic_000000000000008A.html","BeneficiaryFormViewModel.BeneficiaryFormPage2 Property","BeneficiaryFormPage2 get/sets the second form page for creating the beneficiary."];

@@ -1,0 +1,1 @@
+search_result['500']=["topic_00000000000000D3.html","CustomerViewModelPage2.CountryTypes Property","CountryTypes is an array that contains a list of all active countries"];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000000377.html"],['141',"FastPace_Transfer_Mobile_Client.ViewModels Namespace","topic_000000000000007F.html"],['424',"TransactionHistoryViewModel Class","topic_0000000000000159.html"],['433',"Methods","topic_0000000000000159_methods--.html"]];

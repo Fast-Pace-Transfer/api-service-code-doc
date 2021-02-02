@@ -1,0 +1,1 @@
+search_result['704']=["topic_000000000000015F.html","TransactionHistoryViewModel.SelectedTransactionHistoryType Property","It indicates the transaction selected from the list of transactions"];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000000377.html"],['141',"FastPace_Transfer_Mobile_Client.ViewModels Namespace","topic_000000000000007F.html"],['390',"SignupPageViewModel Class","topic_000000000000013C.html"],['404',"Fields","topic_000000000000013C_vars--.html"],['406',"_isCheckBoxTicked Field","topic_000000000000013D.html"]];

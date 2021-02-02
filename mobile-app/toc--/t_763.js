@@ -1,0 +1,1 @@
+c['763']=[['764',"Active Property","topic_00000000000002CE.html",0],['765',"Id Property","topic_00000000000002CA.html",0],['766',"Rate Property","topic_00000000000002CD.html",0],['767',"ReceivingCurrency Property","topic_00000000000002CC.html",0],['768',"SendingCurrency Property","topic_00000000000002CB.html",0],['769',"Type Property","topic_00000000000002CF.html",0]];

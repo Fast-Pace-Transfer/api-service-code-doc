@@ -1,0 +1,1 @@
+search_result['884']=["topic_00000000000001B4.html","SignUpService.LogOut Method","LogOut function terminates access to the application"];

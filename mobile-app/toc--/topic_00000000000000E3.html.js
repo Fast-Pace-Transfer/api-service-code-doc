@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000000377.html"],['141',"FastPace_Transfer_Mobile_Client.ViewModels Namespace","topic_000000000000007F.html"],['258',"DashBoardViewModel Class","topic_00000000000000DD.html"],['259',"DashBoardViewModel Constructor","topic_00000000000000E3.html"]];

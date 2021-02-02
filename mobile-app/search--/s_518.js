@@ -1,0 +1,1 @@
+search_result['518']=["topic_00000000000000E0.html","DashBoardViewModel.LastTransaction Property","LastTransaction gets/sets the last transaction done by the user."];

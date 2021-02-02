@@ -1,0 +1,1 @@
+search_result['408']=["topic_0000000000000095.html","BeneficiaryFormViewModel.setUsername Method","setUsername sets the username variable to name the user provided\r\nin the user profile. This name will be displayed on every page.\r\nThe username name is stored in the application dictionary."];

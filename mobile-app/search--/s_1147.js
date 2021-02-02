@@ -1,0 +1,1 @@
+search_result['1147']=["topic_000000000000022F.html","CommonBeneficiary Class","This class contains the details required by the user to create a beneficiary.\r\nThis class serves as the parent class to some of the beneficiary classes."];

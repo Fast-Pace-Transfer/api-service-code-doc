@@ -1,0 +1,1 @@
+c['234']=[['235',"CustomerViewModelPage2 Constructor","topic_00000000000000D8.html",0],['236',"Properties","topic_00000000000000C8_props--.html",1],['248',"Methods","topic_00000000000000C8_methods--.html",1],['253',"Fields","topic_00000000000000C8_vars--.html",1]];

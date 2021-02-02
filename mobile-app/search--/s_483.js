@@ -1,0 +1,1 @@
+search_result['483']=["topic_00000000000000C7.html","CustomerPageViewModel Constructor","Customer page constructor.\r\nThis constructor if it recieves a boolean true, activates the update button else\r\nthe button remains as the save button."];

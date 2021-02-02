@@ -1,0 +1,1 @@
+search_result['679']=["topic_000000000000014B.html","TransactionDetailsViewModel.SentAmount Property",""];

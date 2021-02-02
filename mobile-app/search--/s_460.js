@@ -1,0 +1,1 @@
+search_result['460']=["topic_00000000000000B5.html","CountryPaymentMethodsPageViewModel.PaymentMethodsPage Property","PaymentMethodsPage gets/sets the page that allows the user to choose the\r\npayment method."];

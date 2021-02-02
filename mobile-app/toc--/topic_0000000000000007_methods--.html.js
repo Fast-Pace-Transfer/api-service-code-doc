@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000000377.html"],['4',"FastPaceDev.Droid Namespace","topic_0000000000000006.html"],['5',"SplashActivity Class","topic_0000000000000007.html"],['6',"Methods","topic_0000000000000007_methods--.html"]];

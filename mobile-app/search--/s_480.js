@@ -1,0 +1,1 @@
+search_result['480']=["topic_00000000000000C4.html","CustomerPageViewModel.CustomerDOB Property","The CustomerDOB get/sets the customer\u0027s Date of Birth."];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000000377.html"],['21',"FastPace_Transfer_Mobile_Client.Droid Namespace","topic_0000000000000000.html"],['26',"NoUnderlineEntryAndroid Class","topic_0000000000000004.html"],['27',"Methods","topic_0000000000000004_methods--.html"],['28',"OnElementChanged Method","topic_0000000000000005.html"]];

@@ -1,0 +1,1 @@
+search_result['508']=["topic_00000000000000DB.html","CustomerViewModelPage2.SaveCustomerDetails2 Method","SaveCustomerDetails saves the new customer details provided.\r\nfor cooperate user."];

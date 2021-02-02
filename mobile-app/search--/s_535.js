@@ -1,0 +1,1 @@
+search_result['535']=["topic_00000000000000EC.html","DocumentSummaryViewModel.Expiry Property","Expiry gets/sets the expiry date for the document"];

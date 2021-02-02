@@ -1,0 +1,1 @@
+search_result['997']=["topic_00000000000001DF.html","TransactionServices.GetTransactionHistory Method","GetTransactionHistory\r\n\r\nThis function fetches the transaction history of the user\r\n"];

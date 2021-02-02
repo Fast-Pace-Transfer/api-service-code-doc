@@ -1,0 +1,1 @@
+search_result['531']=["topic_00000000000000E8.html","DocumentSummaryViewModel.DocType Property","DocType gets/sets the type of document"];

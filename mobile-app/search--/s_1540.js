@@ -1,0 +1,1 @@
+search_result['1540']=["topic_0000000000000304.html","TransactionHistoryType Class","Structure for obtaining transaction history for a user."];
