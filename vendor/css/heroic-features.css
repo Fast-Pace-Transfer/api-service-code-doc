@@ -1,0 +1,21 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template/heroic-features)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.card-title {
+  color: #E66060;
+}
+
+.btn-primary {
+  background-color: #E66060;
+  border-color:   #E66060;
+}
+
+.display-3 {
+  color: #E66060;
+}
